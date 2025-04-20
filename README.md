@@ -2,7 +2,7 @@
 
 This repository has been renamed and is no longer maintained here.
 
-👉 The new and updated repository is available at: [CASSIA-SingleCell-LLM-Annotation](https://github.com/ElliotXie/CASSIA-SingleCell-LLM-Annotation)
+👉 The new and updated repository is available at: [CASSIA](https://github.com/ElliotXie/CASSIA)
 
 Please refer to the updated repository for the latest code, documentation, and updates related to the manuscript.
 
